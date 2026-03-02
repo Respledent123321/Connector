@@ -1,0 +1,20 @@
+# Robot GUI config
+llama_cli_path: runtime/llama/llama-cli.exe
+llama_model_path: models/llm/model.gguf
+llm_profile: balanced
+whisper_cli_path: runtime/whisper/whisper-cli.exe
+whisper_model_path: models/whisper/ggml-base.en.bin
+piper_path: runtime/piper/piper.exe
+piper_model_path: models/piper/en_US-lessac-medium.onnx
+piper_config_path: models/piper/en_US-lessac-medium.onnx.json
+llama_n_predict: 128
+llama_temperature: 0.4
+llama_threads: 0
+research_enabled: true
+speak_responses: false
+read_only_workspace: true
+ggwave_tx_volume: 20
+ggwave_protocol: audible_fast
+ggwave_repeat_count: 1
+ggwave_route_to_chat: true
+tool_allowlist: [python, powershell, cmd, git]
