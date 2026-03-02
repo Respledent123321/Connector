@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\dan\Desktop\AIOS\robot\build\CMakeFiles\c9f2bdb1d07a3a6e1940ec9599882f13\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{38F53FAE-116B-3F8E-B3AA-E75C3118FA58}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
