@@ -1,0 +1,14 @@
+C:\Users\dan\Desktop\AIOS\robot\src\main.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\main.obj
+C:\Users\dan\Desktop\AIOS\robot\src\app\MainWindow.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\MainWindow.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\AppPaths.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\AppPaths.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\ConfigManager.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\ConfigManager.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\MemoryStore.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\MemoryStore.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\ReasonerEngine.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\ReasonerEngine.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\ResearchService.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\ResearchService.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\ToolManager.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\ToolManager.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\GgWaveService.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\GgWaveService.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\SttEngine.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\SttEngine.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\TtsEngine.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\TtsEngine.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\AudioUtils.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\AudioUtils.obj
+C:\Users\dan\Desktop\AIOS\robot\src\core\AgentController.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\AgentController.obj
+C:\Users\dan\Desktop\AIOS\robot\build\robot_gui_autogen\mocs_compilation_Release.cpp;C:\Users\dan\Desktop\AIOS\robot\build\robot_gui.dir\Release\mocs_compilation_Release.obj
